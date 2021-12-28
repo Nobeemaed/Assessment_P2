@@ -3,6 +3,7 @@
 
 /* Align icon to left */
 #what .items .item {
+  align-items: left;
 }
 
 /* Position icon */
@@ -10,9 +11,9 @@
 }
 
 /* Smartphones */
-@media (max-width: 500px) {
+@media (max-width: 812px) {
   #navbar {
-    height: 100px;
+    height: 70px;
     position: fixed;
     text-align: center;
   }
@@ -20,8 +21,8 @@
     padding-top: 10px;
   }
   .logo {
-    width: 100%;
     font-size: 30px;
+    width: 100%;
   }
   #navbar ul {
     float: none;
@@ -33,8 +34,6 @@
   }
 
   /* #what .items {
-
-
     }
     
     /* Align icon to left */
@@ -60,7 +59,7 @@
   }
   /* Position icon */
   #what .items .item i {
-    background: rgb(45, 235, 54);
+    background:#adff2f;
     border-radius: 50%;
   }
 #who .who-img, #who .m-heading, #who p, #who h3, #who .list-1{
