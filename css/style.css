@@ -34,7 +34,7 @@ p {
 .bg-light {
   background: #d8d8d85d;
   color: #fff;
-  padding: 20px 0px;
+  padding: 50px 0px;
   overflow: auto;
 }
 
@@ -58,7 +58,7 @@ p {
 }
 
 .py-1 {
-  font-size: 0.67em;
+  font-size: 1em;
 }
 .py-2 {
 }
@@ -71,7 +71,7 @@ p {
 .p-2 {
   float: left;
   width: 60%;
-  padding: 20px;
+  padding: 25px;
 }
 .p-3 {
 }
