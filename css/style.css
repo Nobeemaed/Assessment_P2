@@ -77,7 +77,7 @@ p {
 }
 
 .btn {
-  background: rgb(107, 214, 0);
+  background: #adff2f;
   padding: 10px;
   border-radius: 5px;
   color: #fff;
@@ -86,6 +86,8 @@ p {
 }
 
 .btn:hover {
+  background: #cceeaf;
+  color: #1f3108;
 }
 
 .btn-dark {
@@ -114,7 +116,7 @@ p {
   font-size: 30px;
 }
 #navbar span {
-  color: #69e969;
+  color: #adff2f;
 }
 #navbar a {
   color: #fff;
@@ -140,8 +142,8 @@ p {
 }
 
 #navbar ul li a:hover {
-  background: #334756;
-  color: #ff4c29;
+  background: #cceeaf;
+  color: #1f3108;
 }
 
 /* Showcase */
@@ -178,7 +180,7 @@ p {
 #what .items .item i {
   float: left;
   padding: 15px;
-  background: rgb(45, 235, 54);
+  background: #adff2f;
   border-radius: 50%;
 }
 
